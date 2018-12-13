@@ -5,7 +5,7 @@
 jalankan perintah berikut :
 
 `
-go get https://github.com/fatkulnurk/golang_for_beginner
+go get github.com/fatkulnurk/golang_for_beginner
 `
 
 lalu petualangan di mulai *^_^* , semoga menyenangkan.
